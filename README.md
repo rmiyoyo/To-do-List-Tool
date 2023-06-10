@@ -1,0 +1,2 @@
+# To-do-List-Tool
+"To-do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete. Built using ES6 and Webpack.
